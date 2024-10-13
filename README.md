@@ -1,5 +1,5 @@
 <img width="1332" alt="Screenshot 2024-10-13 at 10 57 46 AM" src="https://github.com/user-attachments/assets/f2f87d62-e7a1-486e-bcb4-148e5a4cf446">
-<img width="1332" alt="Screenshot 2024-10-13 at 10 57 46 AM" src="https://github.com/user-attachments/assets/7110c2c0-77b0-4cc0-a7a9-ad2eb5738ac9">
+
 
 **To-Do App**
 A sleek, user-friendly to-do list application built with **React JS** and **Vite**, styled with **Materialize CSS** for a responsive and modern interface. This app helps you keep track of your tasks with ease and efficiency.
