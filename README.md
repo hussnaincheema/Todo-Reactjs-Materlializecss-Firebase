@@ -5,6 +5,12 @@
 A sleek, user-friendly to-do list application built with **React JS** and **Vite**, styled with **Materialize CSS** for a responsive and modern interface. This app helps you keep track of your tasks with ease and efficiency.
 
 **Technologies Used**
+
+
 **React JS -** A JavaScript library for building user interfaces
+
+
 **Vite -** Next Generation Frontend Tooling
+
+
 **Materialize CSS -** A modern responsive CSS framework based on Material Design
