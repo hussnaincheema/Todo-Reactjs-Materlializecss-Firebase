@@ -1,8 +1,10 @@
-# React + Vite
+<img width="1332" alt="Screenshot 2024-10-13 at 10 57 46 AM" src="https://github.com/user-attachments/assets/f2f87d62-e7a1-486e-bcb4-148e5a4cf446">
+<img width="1332" alt="Screenshot 2024-10-13 at 10 57 46 AM" src="https://github.com/user-attachments/assets/7110c2c0-77b0-4cc0-a7a9-ad2eb5738ac9">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**To-Do App**
+A sleek, user-friendly to-do list application built with **React JS** and **Vite**, styled with **Materialize CSS** for a responsive and modern interface. This app helps you keep track of your tasks with ease and efficiency.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Technologies Used**
+**React JS -** A JavaScript library for building user interfaces
+**Vite -** Next Generation Frontend Tooling
+**Materialize CSS -** A modern responsive CSS framework based on Material Design
